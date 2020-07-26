@@ -1,0 +1,14 @@
+@import url(//fonts.googleapis.com/css?family=Oregano|Merienda);
+
+.mwl {
+font-family: 'Merienda', cursive;
+color:white;
+}
+.ks {
+font-family: 'Oregano', cursive;
+font-size:18px;
+color:white;
+}
+.ks a{
+text-transform: none !important;
+}
